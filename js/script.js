@@ -34,6 +34,8 @@ if(age < 18){
   `;
 }
 
+const btnInput = document.getElementById('btnInput');
+
 
 
 
